@@ -1,4 +1,4 @@
-### Hey 👋, I'm Kamyar Nazeri
+I'm Kamyar 
 
 [![](https://img.shields.io/badge/-Kamyar%20Nazeri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/knazeri/)](https://www.linkedin.com/in/knazeri/)
 [![](https://img.shields.io/badge/-@knazeri-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/knazeri)
