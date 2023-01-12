@@ -8,5 +8,5 @@ I am a coder for life with expertise in C++, C#, Python, JavaScript, TypeScript,
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![knazeri's github stats](https://github-readme-stats.vercel.app/api?username=knazeri&show_icons=true&theme=dracula)
+![knazeri's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=knazeri&show_icons=true&theme=dark)
 
