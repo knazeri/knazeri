@@ -6,7 +6,3 @@ I'm Kamyar
 
 I am a coder for life with expertise in C++, C#, Python, JavaScript, TypeScript, and most recently with a focus on Cloud Computing, Deep Learning in Computer Vision, and Generative Models.
 
-## 𝗦𝘁𝗮𝘁𝘀
-
-![knazeri's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=knazeri&show_icons=true&theme=dark)
-
